@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+
+}
+
+#e1{
+    margin: 0px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 100px 100px 100px ;
+    grid-template-rows: 40px 100px ;
+}
+#e2{
+    margin: 0px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 20% 50% 20% ;
+    grid-template-rows: 10% 50% 10% ;
+}
+#e3{
+    margin: 0px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 20% 50% 1fr 2fr ;
+    grid-template-rows: 20% 40% 1fr;
+
+}
+#e4{
+    margin: 0px;
+    width: 40vw;
+    height: 500px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: repeat(7, 40px) 1fr;
+    grid-template-rows: repeat(1, 40px) 1fr;
+}
+#e5{
+    margin: 0px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns:minmax(100px, 1fr) 100px 100px;
+    grid-template-rows:minmax(100px, 1fr) 100px 100px;
+
+}
+
+.box{
+
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.pink{
+    background-color: pink;
+}
+.yellow{
+    background-color: yellow;
+}
+.gray{
+    background-color: gray;
+}
+.green{
+    background-color: green;
+}
+.brown{
+    background-color: brown;
+}
+.maroon{
+    background-color: maroon;
+}
