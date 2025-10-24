@@ -1,0 +1,35 @@
+*{
+    
+    margin: 0px;
+    padding: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    color: aqua;
+}
+
+#p1{
+    color: blue;
+}
+
+span{
+    color:red;
+}
+h1{
+    color: red;
+}
+#hh{
+    color: aquamarine;
+}
+
+.box{
+    color: chartreuse;
+}
+
+.circle{
+    color: darkgreen;
+}
+.box{
+
+color: red;}

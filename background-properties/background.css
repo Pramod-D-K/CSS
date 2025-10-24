@@ -1,0 +1,31 @@
+* {
+  background-image: url(https://images.unsplash.com/photo-1583692717320-0c9661d49d9a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Ym13fGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600);
+  background-size:  cover;
+
+}
+
+#box2 {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  background-image: url(https://images.unsplash.com/photo-1617531653635-4b0e357c091b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=777);
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+#box1 {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+
+  background-image: url(../html/bmw.jpg);
+  background-size: cover;
+
+}
+#box3 {
+  width: 500px;
+  height: 500px;
+  border: 1px solid red;
+
+  background-color: white;
+}
